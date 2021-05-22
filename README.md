@@ -2,7 +2,7 @@
 
 *you have played this game in your school days
 
-*you can refer code from here..
+*simple hand cricket in python
 
 *thank you*
 
